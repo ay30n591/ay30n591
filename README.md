@@ -13,10 +13,14 @@
 <a href="s">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ay30n591&theme=solarized&exclude={exclude}"/>
 </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ay30n591&theme=transparent" width="100%"/>
+
 -->
 
+<h1>📞 Contact </h1>
+<a href="mailto:suhyeon591@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=suhyeon591@gmail.com"/></a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ay30n591&theme=transparent" width="100%"/>
+
 
 <!--
 **ay30n591/ay30n591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
