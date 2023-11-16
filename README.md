@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome👋&fontSize=90&&desc=SuHyeon's%20GitHub%20profile&20&fontAlignY=45&fontAlign=43)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Welcome👋&fontSize=85&&desc=SuHyeon's%20GitHub%20profile&20&fontAlignY=45&fontAlign=43)
 )
 
 <a href="s">
