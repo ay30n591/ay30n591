@@ -3,7 +3,7 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay30n591&exclude_repo=ay30n591.github.io&layout=compact&theme=solarized_dark"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay30n591&exclude_repo=ay30n591.github.io&layout=compact&theme=solarized_dark" width="47%" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ay30n591&theme=solarized_dark&show_icons=true" width="47%" />
@@ -16,7 +16,7 @@
 -->
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ay30n591&theme=transparent" width="82%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ay30n591&theme=transparent" width="100%"/>
 
 <!--
 **ay30n591/ay30n591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
