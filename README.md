@@ -1,10 +1,12 @@
-### Welecom 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome👋&fontSize=90&&desc=SuHyeon's%20GitHub%20profile&20&fontAlignY=45&fontAlign=43)
+)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay30n591&exclude_repo=ay30n591.github.io&layout=compact&theme=solarized_dark"  />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ay30n591&theme=solarized_dark&show_icons=true" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ay30n591&theme=solarized_dark&show_icons=true" width="47%" />
 </a>
 
 <!--
