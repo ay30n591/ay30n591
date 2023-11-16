@@ -1,10 +1,10 @@
 ### Welecom 👋
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay30n591&exclude_repo=ay30n591.github.io&layout=compact&theme=solarized_dark" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay30n591&exclude_repo=ay30n591.github.io&layout=compact&theme=solarized_dark"  />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ay30n591&theme=solarized_dark&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ay30n591&theme=solarized_dark&show_icons=true" width="32%" />
 </a>
 
 <!--
