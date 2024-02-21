@@ -127,10 +127,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <h2>🗄️ Project </h2>
 
 📗 [시각화를 통한 논문탐색 서비스_EGG](https://github.com/ay30n591/EGG_Project)<br/>
 📘 [플레이리스트 공유 SNS 플랫폼_BB](https://github.com/ay30n591/BB_Backend)<br/>
 📙 [MBTI별 텍스트 분류](https://github.com/ay30n591/MBTI-Classification-project)  
+
+<h2>📝 Study</h2>
+🔖 [Coding Test](https://github.com/ay30n591/Coding_Test)
+
