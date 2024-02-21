@@ -135,5 +135,6 @@ Here are some ideas to get you started:
 📙 [MBTI별 텍스트 분류](https://github.com/ay30n591/MBTI-Classification-project)  
 
 <h2>📝 Study</h2>
-🔖 [Coding Test](https://github.com/ay30n591/Coding_Test)
+
+🔖 [Coding Test](https://github.com/ay30n591/Coding_Test)<br/>
 
