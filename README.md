@@ -1,14 +1,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=290&section=header&text=Welcome👋&fontSize=85&desc=SuHyeon's%20GitHub%20profile&20&fontAlignY=45&fontAlign=70&descAlign=79)
 
-
+<!--
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay30n591&exclude_repo=ay30n591.github.io&layout=compact&theme=solarized_dark" width="42%" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ay30n591&theme=solarized_dark&show_icons=true" width="55%" />
 </a>
-
+-->
 금융 현업을 이해하고 데이터를 활용해 문제를 해결하는 금융 데이터 실무자입니다.
 
 채권·NPL 관련 업무와 채권 매각 실무를 경험하며 금융 데이터의 가공·분석부터 개발, 검증, 매각손익 산출까지 폭넓게 경험했습니다.<br/>
